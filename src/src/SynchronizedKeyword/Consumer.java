@@ -1,3 +1,5 @@
+package SynchronizedKeyword;
+
 public class Consumer implements Runnable{
     private Store store;
     public Consumer(Store store){
